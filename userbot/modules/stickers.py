@@ -21,6 +21,10 @@ from telethon.tl.types import DocumentAttributeSticker
 KANGING_STR = [
     "Using Witchery to kang this sticker...",
     "Plagiarising hehe...",
+    "Vella kaaka mallaka parakkudhu! aayata potturuvom",
+    "Konjam anga paaru kanna",
+    "Alaat aaykoda aarumugam",
+    "Sticker a thooku le",
     "Inviting this sticker over to my pack...",
     "Kanging this sticker...",
     "Hey that's a nice sticker!\nMind if I kang?!..",
